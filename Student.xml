@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<credentials>
+	<credential>
+		<name>MDS P21</name>
+		<system>Epicor P21 Custom Server</system>
+		<hostname>http://p21api.mdshvac.com:5000</hostname>
+		<timezone>India Standard Time (Asia/Kolkata)</timezone>
+		<keys>
+			<grant_type>client_credentials</grant_type>
+			<client_id>dckap</client_id>
+		</keys>
+	</credential>
+</credentials>
